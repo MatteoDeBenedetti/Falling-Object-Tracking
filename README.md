@@ -22,6 +22,6 @@ Behind the plexiglass is a cartesian robot that makes it possible to automate th
 
 ---
 ### Example of the Final Video
-For a short example of the final video (~5 sec) click on the image  
+For a short example of the final video (~3 sec) click on the image  
 [![VIDEO](https://img.youtube.com/vi/L29NLL4a18c/0.jpg)](https://www.youtube.com/watch?v=L29NLL4a18c&feature=youtu.be)
 

@@ -12,6 +12,9 @@ The object is falling between 2 sheets of plexiglass.
 Behind the plexiglass is a cartesian robot that makes it possible to automate the whole processo of dropping the object, recovering it, bringing it to a desired position, dropping it and so on.
 
 ---
+
+This work is part of a bigger project for the Robots Mechanics exam, using the setup to estimate the physical and inertial properties of an object from its falling trajectory. 
+
 ### Scripts:
 
 *gopro_calib.m*: The video needs to be corrected to consider the distorsion of the lens. This script estimates the distorsion parameters and saves them
